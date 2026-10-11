@@ -41,7 +41,9 @@ const video = $('.hero__video');
   const key = tall ? 'Tall' : 'Wide';
   video.poster = video.dataset[`poster${key}`];
   video.style.backgroundImage = `url(${video.dataset[`poster${key}`]})`;
-  video.src = video.dataset[`src${key}`];
+  // MP4 (H.264) ovunque sia supportato, WebM (VP9) come alternativa.
+  const mp4 = video.canPlayType('video/mp4; codecs="avc1.640028"');
+  video.src = mp4 ? video.dataset[`src${key}`] : video.dataset[`src${key}`].replace('.mp4', '.webm');
   const play = () => video.play().catch(() => {});
   video.addEventListener('canplay', play, { once: true });
   ScrollTrigger.create({
@@ -326,8 +328,8 @@ $$('[data-words]').forEach((p) => {
       const next = cards[i + 1];
       if (!next) return;
       gsap.to(card, {
-        scale: 0.92, filter: 'brightness(0.55)', ease: 'none',
-        scrollTrigger: { trigger: next, start: 'top bottom', end: 'top 20%', scrub: true },
+        scale: 0.94, filter: 'brightness(0.62)', ease: 'none',
+        scrollTrigger: { trigger: next, start: 'top 70%', end: 'top 15%', scrub: true },
       });
     });
   }
