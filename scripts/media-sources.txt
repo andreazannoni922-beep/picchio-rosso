@@ -1,0 +1,15 @@
+# Sorgenti Higgsfield (generate per la bozza) — nome-file  URL
+oven-16x9.png https://d8j0ntlcm91z4.cloudfront.net/user_308rduC9VTYQerIy72osbPkdO1y/hf_20261011_153522_ae33072c-cb2c-4c5d-8ec0-5b2b040a9332.png
+oven-9x16.png https://d8j0ntlcm91z4.cloudfront.net/user_308rduC9VTYQerIy72osbPkdO1y/hf_20261011_153523_16d697f1-8bb7-4ad2-ac5e-22419ce5cb3d.png
+margherita.png https://d8j0ntlcm91z4.cloudfront.net/user_308rduC9VTYQerIy72osbPkdO1y/hf_20261011_153524_e273fb34-8f39-4ff9-8f66-97bb07948277.png
+calabrese.png https://d8j0ntlcm91z4.cloudfront.net/user_308rduC9VTYQerIy72osbPkdO1y/hf_20261011_153523_379efae8-4ba9-4405-92d3-d6eca09d3f73.png
+tirolese.png https://d8j0ntlcm91z4.cloudfront.net/user_308rduC9VTYQerIy72osbPkdO1y/hf_20261011_153523_b2f762c1-83c0-4a4d-8053-f8395841f708.png
+picchio.png https://d8j0ntlcm91z4.cloudfront.net/user_308rduC9VTYQerIy72osbPkdO1y/hf_20261011_153821_3dff2495-0604-4307-8442-9ce83eaa3b1c.png
+bizzarra.png https://d8j0ntlcm91z4.cloudfront.net/user_308rduC9VTYQerIy72osbPkdO1y/hf_20261011_153523_2b7483e6-7058-4a8a-8bb8-e0772a1dc8e7.png
+atomica.png https://d8j0ntlcm91z4.cloudfront.net/user_308rduC9VTYQerIy72osbPkdO1y/hf_20261011_153820_845c5f96-a736-409d-9ed4-96e402d9ea47.png
+hands.png https://d8j0ntlcm91z4.cloudfront.net/user_308rduC9VTYQerIy72osbPkdO1y/hf_20261011_153827_2ae2ca01-5672-4f54-91ae-24ec7466fe77.png
+mezzometro.png https://d8j0ntlcm91z4.cloudfront.net/user_308rduC9VTYQerIy72osbPkdO1y/hf_20261011_153524_e5554016-84cf-4911-9792-9c3ca4313ee6.png
+embers.png https://d8j0ntlcm91z4.cloudfront.net/user_308rduC9VTYQerIy72osbPkdO1y/hf_20261011_153826_d597e0bf-8844-4b56-bfe1-4706db702079.png
+fritti.png https://d8j0ntlcm91z4.cloudfront.net/user_308rduC9VTYQerIy72osbPkdO1y/hf_20261011_153524_13cd1a55-3330-49b5-bab7-b4f641252abd.png
+hero-16x9.mp4 https://d8j0ntlcm91z4.cloudfront.net/user_308rduC9VTYQerIy72osbPkdO1y/hf_20261011_153818_57a4725c-2f0a-4060-a576-92d3ee0adeb3.mp4
+hero-9x16.mp4 https://d8j0ntlcm91z4.cloudfront.net/user_308rduC9VTYQerIy72osbPkdO1y/hf_20261011_153817_5533cd93-bce1-4963-b16a-96d48a96ae53.mp4

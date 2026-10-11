@@ -1,0 +1,20 @@
+# Bozza su dominio di test: al lancio sostituire "Disallow: /" con "Allow: /"
+User-agent: *
+Disallow: /
+
+# Al lancio (versione definitiva):
+# User-agent: *
+# Allow: /
+# User-agent: GPTBot
+# Allow: /
+# User-agent: OAI-SearchBot
+# Allow: /
+# User-agent: ClaudeBot
+# Allow: /
+# User-agent: PerplexityBot
+# Allow: /
+# User-agent: Google-Extended
+# Allow: /
+# User-agent: Applebot-Extended
+# Allow: /
+# Sitemap: https://www.pizzeriapicchiorosso.it/fiorano/sitemap.xml
